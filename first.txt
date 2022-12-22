@@ -1,0 +1,7 @@
+This is the version number 1 
+go to commit 2
+yes
+changing mode
+git diff demo noww
+update demo new
+unstage process
